@@ -4,7 +4,7 @@ Hi there, my name's Zachery Murray, but call me Zack for short! I'm a data scien
 
 Some of my primary interests are:
   - Machine learning and predictive analysis 🤖
-  - Querying SQL and managing databases ⌨
+  - Performing SQL queries and managing databases ⌨
   - Learning different languages and libraries 📚
   
 Please don't hestiate to reach out!:
